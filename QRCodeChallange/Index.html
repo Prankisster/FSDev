@@ -1,0 +1,121 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>Scan-Me</title>
+    
+    <link rel="icon" type="image/x-icon" href="./favicon-32x32.png">
+    
+    <style>
+        @import url('https://fonts.googleapis.com/css2?family=Outfit:wght@400;700;900&display=swap');
+        body
+        {
+            background-color:hsl(212, 45%, 89%);
+        }
+        
+        .bgw
+        {
+            background-color:white;
+            width: 6.5cm;;
+            height: 400px;
+            /*width:auto;height:auto;*/
+            border-radius:15px;
+            /*border-right:0.24cm solid white;
+            border-left:0.03cm solid white;
+            border-top:0.03cm solid white;
+            border-bottom:0cm;*/
+            padding:0.35cm;
+            position: absolute;
+        }
+
+        .center 
+        {
+            position: absolute;
+            left: 50%;
+            top: 50%;
+            transform: translate(-50%, -50%);
+            /*border: 5px solid #FFFF00;*/
+            padding: 10px;
+        }
+
+        .bgb
+        {
+            background-color:rgb(0, 119, 255);
+            height:240px;
+            width:6.5cm;
+            border-radius:10px;
+            /*border:0.35cm solid yellow;*/
+            border-bottom: 0.55cm;
+        }
+
+        .writtenHead
+        {
+            /*background-color: greenyellow;*/
+            height:80px;
+            position:relative;
+            border-left: 0.07cm solid white;
+            border-right: 0.05cm solid white;
+        }
+
+        .writtenPara
+        {
+            /*background-color: gold;*/
+            height:auto;
+            margin:4px 0 0 0;
+        }
+
+        .head
+        {
+            text-align:center;
+            padding:12px 7px 7px 7px;
+            margin: 0;
+            vertical-align: middle;
+            border-top:12px solid white;
+            font-size: 20px;
+            
+            font-weight: 900;
+            font-family: 'Outfit', sans-serif;
+            color:hsl(218, 44%, 22%)
+
+        }
+
+        .para
+        {
+            margin:0;
+            text-align: center;
+            color:hsl(220, 15%, 55%);
+            font-size: 15px;
+            font-weight: 400;
+            font-family: 'Outfit', sans-serif;
+        }
+
+        /*.qr
+        {
+            width:230px;
+            height:6cm;
+        }*/
+    </style>
+</head>
+
+<body>
+    
+<div class="bgw center">
+    
+    
+    <div class="bgb">
+        <img class="bgb" src="./image-qr-code.png" alt="QR Code">
+
+    </div>
+
+    <div class="writtenHead">
+        <h3 class="head"><b>Improve your front-end skills by building projects</b></h3>
+
+    </div>
+
+    <div class="writtenPara">
+        <p class="para">Scan the QR code to visit Frontend Mentor and take your coding skills to  the next level</p>
+
+    </div>
+</div>
+
+</body>
+</html>
