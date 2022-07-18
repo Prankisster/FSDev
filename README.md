@@ -26,8 +26,8 @@ Frontend Mentor challenges help you improve your coding skills by building reali
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/Prankisster/FSDev/blob/main/Index.html)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- [Solution URL](https://www.frontendmentor.io/solutions/desktopview-solution-with-fundamentalsbasics-of-html-and-css-qH4ncEIAMz))
+- [Live Site URL](https://prankisster.github.io/FSDev/Index.html)
 
 ## My process
 
