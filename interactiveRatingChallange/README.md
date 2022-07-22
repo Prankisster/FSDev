@@ -21,10 +21,10 @@ This is a solution to the [Interactive rating component challenge on Frontend Me
 
 Users should be able to:
 
-    - View the optimal layout for the app depending on their device's screen size
-    - See hover states for all interactive elements on the page
-    - Select and submit a number rating
-    - See the "Thank you" card state after submitting a rating
+- View the optimal layout for the app depending on their device's screen size
+- See hover states for all interactive elements on the page
+- Select and submit a number rating
+- See the "Thank you" card state after submitting a rating
 
 ### Screenshot
 
@@ -32,17 +32,17 @@ Users should be able to:
 
 ### Links
 
-    - Solution URL: [Add solution URL here](https://www.frontendmentor.io/solutions/desktopview-solution-with-custom-msg-display-and-hover-js-css-and-html-ZgMd_V3UZ-)
-    - Live Site URL: [Add live site URL here](https://prankisster.github.io/FSDev/interactiveRatingChallange/Index.html)
+- Solution URL: [Add solution URL here](https://www.frontendmentor.io/solutions/desktopview-solution-with-custom-msg-display-and-hover-js-css-and-html-ZgMd_V3UZ-)
+- Live Site URL: [Add live site URL here](https://prankisster.github.io/FSDev/interactiveRatingChallange/Index.html)
 
 ## My process
 
 ### Built with
 
-    - Semantic HTML5 markup
-    - Css
-    - JavaScript
-    - [Styled Components](https://fonts.google.com/specimen/Overpass) - For styles
+- Semantic HTML5 markup
+- Css
+- JavaScript
+- [Styled Components](https://fonts.google.com/specimen/Overpass) - For styles
 
 
 ### What I learned
