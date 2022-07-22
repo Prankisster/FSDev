@@ -32,8 +32,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://www.frontendmentor.io/solutions/desktopview-solution-with-custom-msg-display-and-hover-js-css-and-html-ZgMd_V3UZ-)
-- Live Site URL: [Add live site URL here](https://prankisster.github.io/FSDev/interactiveRatingChallange/Index.html)
+- [Solution URL](https://www.frontendmentor.io/solutions/desktopview-solution-with-custom-msg-display-and-hover-js-css-and-html-ZgMd_V3UZ-)
+- [Live Site URL](https://prankisster.github.io/FSDev/interactiveRatingChallange/Index.html)
 
 ## My process
 
@@ -47,10 +47,10 @@ Users should be able to:
 
 ### What I learned
 
-    Here I would like to highlight the insights I gained while working on this project.
+Here I would like to highlight the insights I gained while working on this project.
 
 - To begin with I would say I learnt the importance of observation, to replicate the things are.
-- <mark>Things are not how they seem to be.</mark> Through trial and error, of the various methods that were popping in my mind to show page transition (as it would seem). 
+- **Things are not how they seem to be.** Through trial and error, of the various methods that were popping in my mind to show page transition (as it would seem). 
 - To make changes to and as pointer hovers over certain elements.
 - Making custom, user input based changes to pages.
 - Also got to learn what svg (Scalable Vector Graphics) are.
@@ -95,5 +95,4 @@ function typage(val)
 
 
 ### Continued development
-
-    I would love to explore and to fully exploit the usage of js. Cause I found it intriguing.
+I would love to explore and to fully exploit the usage of js. Cause I found it intriguing.
